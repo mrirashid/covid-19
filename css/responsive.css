@@ -1,0 +1,93 @@
+/*XL Device :1200px */
+@media (min-width: 1450px) and (max-width: 1600px){
+
+}
+@media (min-width: 1200px) and (max-width: 1449px){
+    .hero .content {
+        padding-top: 85px; }
+	
+}
+
+/*LG Device :992px */
+@media (min-width: 992px) and (max-width: 1199px){
+    .header .navbar .navbar-nav .nav-link {
+        font-size: 16px;
+        margin-left: 0px; }
+    .hero .content {
+        padding-top: 80px; }
+    .prevent .prevent-single p {
+        font-size: 13px;
+
+}
+}
+/*MD Device :768px */
+@media (min-width: 768px) and (max-width: 991px){
+    .hero .content {
+        padding-top: 60px;
+    }
+    .hero .content h1 {
+        font-size: 45px; }
+    .prevent .prevent-single h4 {
+            font-size: 20px; }
+    .prevent .prevent-single {
+                padding: 5px; }
+    .prevent .prevent-single p {
+                    font-size: 14px; }
+   .precautions .content h3 {
+                     font-size: 21px; }
+    .precautions .content-single h4 {
+                        font-size: 13px; }
+    .precautions .content-single img {
+                        width: 170px; }
+    .precautions .content-single {
+                        padding: 5px; }
+    .precautions .content-single p {
+                        font-size: 12px; }
+    .footer .content p {
+                            font-size: 13px; }
+                            
+}
+
+/*Extra Small Device */
+@media (max-width: 767px){
+    .hero .content {
+        padding-top: 50px;
+    }
+    .heading h2 {
+        font-size: 40px; }
+    .hero .content h1 {
+            font-size: 35px; }
+    .hero .content h3 {
+                font-size: 25px;}
+    section{
+        margin-bottom: 50px;
+    }
+    .heading h2 {
+        font-size: 30px;}
+    .precautions .content h3 {
+            font-size: 25px;}
+    .precautions .content-single img {
+                width: 150px;
+    }
+    .precautions .content-single {
+        padding: 5px; }
+    .precautions .content-single h4 {
+            font-size: 14px; }
+    .precautions .content-single p {
+            font-size: 12px; }
+    .footer .content p {
+                font-size: 12px; }
+            
+     
+}
+
+/*SM Small Device :550px */
+@media (min-width: 576px) and (max-width: 767px){
+    .hero .content {
+        padding-top: 50px;
+    }
+    .hero .content h1 {
+        font-size: 42px; }
+        .hero .content h3 {
+            font-size: 25px; }
+}
